@@ -1,0 +1,63 @@
+ .all{
+     margin-top: 30px;
+     /* background-color: black; */
+ }
+
+    .walkers{
+        margin-bottom: 8px;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        border: 100px;
+    }
+
+.rhema{
+    border: 100px;
+}
+
+
+    .free{
+        position: absolute;
+        top: 5%;
+        right:1.5px;
+        background-color: black;
+        color: aliceblue;
+    
+        /* width: 200px; */
+    }
+
+    .add{
+        background-color: black;
+        color: white;
+        padding: 0.5rem 0;
+        border-radius: 50px;
+    }
+
+    .top{
+        margin-top: 20px;
+        /* border: 100px; */
+    }
+
+    .footer{
+        background-color: rgb(30, 29, 29);
+        height: 300px;
+        color: rgb(251, 253, 254);
+        width: 780px;
+    }
+
+    .mb-3{
+        width: 200px;
+    }
+
+    .choose{
+        width: 200px;
+    }
+
+    .map{
+        width: 50px;
+        height: 50px;
+    }
+
+    .form-select{
+        text-align: right;
+    }
